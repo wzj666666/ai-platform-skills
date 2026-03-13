@@ -3,7 +3,7 @@ import asyncio
 from fastmcp import Client
 
 
-client = Client("http://localhost:5005/mcp")
+client = Client("http://39.105.182.86:5005/mcp")
 
 
 def parse_args():
